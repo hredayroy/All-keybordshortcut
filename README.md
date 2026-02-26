@@ -1,3 +1,2 @@
 # All-keybordshortcut
-
-https://hotkeycheatsheet.com/en
+https://hotkeycheatsheet.com/
